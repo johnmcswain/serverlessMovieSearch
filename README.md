@@ -7,6 +7,7 @@ The Lambda code is located in the `lambda` folder. Run `npm run zip` in order to
 The `S3` folder contains the static html page which makes a request to the API gateway. 
 You'll need to replace the hostname with your API Gateway Host Name as the listed hostname may be removed AT ANY TIME!
 
+[Link to HackGT5 Serverless Slides](./Serverless.pdf)
 
 Have fun!
 

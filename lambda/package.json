@@ -1,0 +1,17 @@
+{
+  "name": "serverlessmoviesearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zip": "npx bestzip main.zip ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.320.0",
+    "request": "^2.88.0"
+  }
+}
