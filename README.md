@@ -11,3 +11,4 @@ You'll need to replace the hostname with your API Gateway Host Name as the liste
 
 Have fun!
 
+[John McSwain](https://www.linkedin.com/in/johnmcswain/)
