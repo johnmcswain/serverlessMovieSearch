@@ -1,4 +1,4 @@
-# serverlessMovieSearch
+# HackGT 5 Serverless Movie Search (featuring OMDB API)
 
 This is the demo showcased from HackGT 5, which uses AWS Lambda, Dynamo, API Gateway, and S3.
 
